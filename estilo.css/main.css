@@ -1,0 +1,56 @@
+/* reset general*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+/* estilos generales*/ 
+
+body{
+    background-color: lightgrey;
+}
+
+header{
+    padding: 10px;
+    text-align: center;
+}
+
+header nav{
+    margin-top: 20px;
+}
+
+header nav ul li{
+    background-color: rgb(185, 241, 29);
+    display: inline-block;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+a{
+    text-decoration: none;
+
+}
+
+/* estilos de home */
+
+main{
+    text-align: center;
+}
+
+main h1{
+    margin-bottom: 20px;
+}
+
+main p{
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+footer{
+    text-align: center;
+}
